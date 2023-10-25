@@ -1,5 +1,5 @@
 # Python Assignment 2
-##Advance programming in python
+## Advance programming in python
 
 1. Write a Python program to create a class named Student with attributes name, age and
 grade. Implement a method to display the student’s information in a formatted string.
