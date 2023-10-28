@@ -35,7 +35,6 @@ class Teacher(Person):
         return f"{super().introduce()} I am a teacher teaching {self.subject}."
 
 
-# Example usage:
 person = Person("Alice", 30, "Female")
 print(person.greet())
 print(person.introduce())
